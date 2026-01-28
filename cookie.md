@@ -1,9 +1,9 @@
 # simple cookie recipe
 1/2 cup sugar
 1/2 cup butter (melted)
-1 egg
-1 tsp vanilla
-1 1/2 cup flour
+3 egg
+2 tsp vanilla
+2 1/2 cup flour
 1/2 tsp baking soda
 pinch of salt
 chocolate chips
